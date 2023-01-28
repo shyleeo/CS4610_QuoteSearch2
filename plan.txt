@@ -1,0 +1,20 @@
+Basic Ideas:
+    use API to get info
+    take user input
+    make everything into components
+
+UI
+    title
+    search bar 
+    random quote
+    ------------
+    enter on search bar -> perform search
+        search bar moves to top
+        display results, scrollable
+    
+components
+    API search
+    API random
+    user input form
+    list quotes
+     
